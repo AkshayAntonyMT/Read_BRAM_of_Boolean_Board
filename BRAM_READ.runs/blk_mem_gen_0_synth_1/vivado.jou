@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Thu Aug  7 18:10:46 2025
+# Process ID         : 2396
+# Current directory  : C:/Users/aksha/OneDrive/Desktop/Vivado/UART/BRAM_READ/BRAM_READ.runs/blk_mem_gen_0_synth_1
+# Command line       : vivado.exe -log blk_mem_gen_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blk_mem_gen_0.tcl
+# Log file           : C:/Users/aksha/OneDrive/Desktop/Vivado/UART/BRAM_READ/BRAM_READ.runs/blk_mem_gen_0_synth_1/blk_mem_gen_0.vds
+# Journal file       : C:/Users/aksha/OneDrive/Desktop/Vivado/UART/BRAM_READ/BRAM_READ.runs/blk_mem_gen_0_synth_1\vivado.jou
+# Running On         : AKSHAY
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : AMD Ryzen 7 7435HS                             
+# CPU Frequency      : 3094 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16987 MB
+# Swap memory        : 1257 MB
+# Total Virtual      : 18244 MB
+# Available Virtual  : 6339 MB
+#-----------------------------------------------------------
+source blk_mem_gen_0.tcl -notrace
